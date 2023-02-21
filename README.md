@@ -650,7 +650,9 @@ Intervention Profiles
 
 * * *
 
-Management Choices / Pathways / stages Immediate
+Management Choices / Pathways / stages
+
+Immediate
 
   * Acute (i.e. Stabilize)
   * Conservative
